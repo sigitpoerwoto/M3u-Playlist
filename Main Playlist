@@ -45,7 +45,7 @@ http://sg-icecast.eradioportal.com:8000/q105
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NeoRetro105.9Logo.png" group-title="Local Radio",105.9 Neo Retro
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/a/a5/Pizap.png/revision/latest?cb=20180321115415" group-title="Local Radio",106.7 Energy FM
-https://ph-icecast-win.eradioportal.com:8443/energyfm_manila
+
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",107.5 Wish FM
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yjP2Yj/A2-Z-Channel-11.png" group-title="Local Channel",A2Z
@@ -245,7 +245,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 #EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/512px-E!_Logo.svg.png" group-title="Entertainment",E! Entertainment
 
 #EXTINF:-1 tvg-name="Game Show Central" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="Entertainment",Game Show Central
-
+https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 #EXTINF:-1 tvg-id="3602" tvg-name="GEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Entertainment",GEM
