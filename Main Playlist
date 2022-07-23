@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeQSfYp1HGbX59mHDU6x989AUuoKYl2OqYw&usqp=CAU" group-title="Local Radio",88.3 Jam
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
 #EXTINF:-1
 tvg-logo="https://i.ibb.co/YTYmnvV/1657440916172.png" group-title="Local Radio",89.1 Wave
 
