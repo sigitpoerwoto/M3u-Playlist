@@ -84,7 +84,7 @@ https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3039261d980b49eca2119b162262f928&key=76ea0b0f0d9d6a220c62f0987731452b
 https://ydKAaGNBgW.akamaized.net/out/u/3062.mpd
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://fp.visualsec.net:8445/logo/47.png" group-title="Anime",Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Anime",Animax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=24
 #EXTINF:-1 tvg-name="Anime All Day" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/ANIME_ALL_DAY.svg/revision/latest/scale-to-width-down/300?cb=20210803041231" group-title="Anime",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
