@@ -131,7 +131,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_primary.mpd
 #EXTINF:-1 tvg-name="TVO Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
 
 #EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="Kids",Zoo Moo
-http://203.154.177.124:8899/live/ch20/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="Movies",Boo
@@ -315,7 +315,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-name="MTV Block Party" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOQ3UADBtkeVIhv2epZHO6XX1ievBrTw5fQ&usqp=CAU" group-title="Music",MTV Live
 http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-1 tvg-name="MYX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1117px-Myxphlogo.svg.png" group-title="Music",MYX
@@ -411,9 +411,9 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest?cb=20160402190112" group-title="Sports",Fox Sports 1
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
-http://185.79.153.10:6500/play/a05o
+
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-name="Premier Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest/scale-to-width-down/400?cb=20210920130931" group-title="Sports",Premier Sports
 
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="https://ia903107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Sports",Redbull TV
