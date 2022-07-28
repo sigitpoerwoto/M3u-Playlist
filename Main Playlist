@@ -1,103 +1,140 @@
 #EXTM3U
+
+=Local Radio=
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeQSfYp1HGbX59mHDU6x989AUuoKYl2OqYw&usqp=CAU" group-title="Local Radio",88.3 Jam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
-#EXTINF:-1
-tvg-logo="https://i.ibb.co/YTYmnvV/1657440916172.png" group-title="Local Radio",89.1 Wave
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTYmnvV/1657440916172.png" group-title="Local Radio",89.1 Wave
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdg0QK3EZcoBAQc-3mUMGVAvWQUUbJ6a9y2w&usqp=CAU" group-title="Local Radio",89.9 Magic
 http://stream-30.zeno.fm/sh37pvfd938uv?zs=9-6MPUdoSDuZq7riLOxKCg
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVayp-3VCu6efnn2BMXoZ4Wx1THb114ynosGtA2XWkG8HFdfAkEBQ4jqRG&s=10" group-title="Local Radio",90.7 Love Radio
 http://s3.radio.co/sd43d6cc6d/listen
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mGz240r/IMG-20220710-160633.jpg" group-title="Local Radio",91.5 Win Radio
 http://stream-12.zeno.fm/2ss1hgnu6hhvv?zs=zu9MieNWTsuFyoR5UOZSPw
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Svm0KM/1657442417306.png" group-title="Local Radio",92.3 Radyo 5 News FM
 
 #EXTINF:-1 tvg-logo="https://rx931.com/images/_assets/logo.png" group-title="Local Radio",93.1 Monster RX
 https://ph-icecast-win.eradioportal.com:8443/monsterrx
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjE9aIxeYufUivfn6AIJHbw5N1orRyODD_w&usqp=CAU" group-title="Local Radio",93.9 iFM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Mellow_947.png" group-title="Local Radio",94.7 Mellow
 http://s3.free-shoutcast.com/stream/18342/;?nocache=40&type=http
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Rj0NLW/1657456063249.png" group-title="Local Radio",95.5 Eagle FM
 https://s5.radio.co/s49bbdfa2a/listen
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcKI5ByLvV8X_D6RXCaEWU_fqZ1z5BUDxwg&usqp=CAU" group-title="Local Radio",96.3 Easy Rock
 http://s4.radio.co/s778110174/listen
+
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",97.1 Barangay LS
 
 #EXTINF:-1vtvg-logo="xxx" group-title="Local Radio",97.9 Home Radio
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZsCV7FNBkeznRwmJ3AWL-jvprh_SC4Zltg&usqp=CAU" group-title="Local Radio",98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",99.5 Play FM
 
 #EXTINF:-1 tvg-logo="https://eradioportal.com/wp-content/uploads/2020/03/RJFM-NEW.png" group-title="Local Radio",100.3 RJ FM
 http://111.125.87.226:8000/streamfm
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xjfx2C1/1657443104433.png" group-title="Local Radio",101.1 Yes The Best
 http://s2.radio.co/sa85100da7/listen
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s97256/images/logog.png?t=151671" group-title="Local Radio",102.7 Star FM
 http://stream-20.zeno.fm/536cwdq78heuv?zs=BzIu3YKaToeyXmz06brsNw
+
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",103.5 K-Lite
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Fm2ph-logo.png" group-title="Local Radio",104.3 Capital FM2
 http://stream-10.zeno.fm/205fny7m108uv?zs=fGQjZCXKTNK4YCmg0a4eQQ
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Q_105.1_Manila.png/revision/latest/scale-to-width-down/350?cb=20200302125824" group-title="Local Radio",105.1 Q Radio
 http://sg-icecast.eradioportal.com:8000/q105
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NeoRetro105.9Logo.png" group-title="Local Radio",105.9 Neo Retro
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/a/a5/Pizap.png/revision/latest?cb=20180321115415" group-title="Local Radio",106.7 Energy FM
 
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",107.5 Wish FM
 
+=Local Channel=
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yjP2Yj/A2-Z-Channel-11.png" group-title="Local Channel",A2Z
 
-#EXTINF:-1 tvg-name="CNN Philippines" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Local Channel",CNN Philippines
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Local Channel",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-name="DZMM TeleRadyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ByrtpctVDQ0N4e3eG4ur_uMJ833LsIZsQ&usqp=CAU" group-title="Local Channel",DZMM TeleRadyo
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ByrtpctVDQ0N4e3eG4ur_uMJ833LsIZsQ&usqp=CAU" group-title="Local Channel",DZMM TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5mXd50/gma7.png" group-title="Local Channel",GMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=79bfe10f004c421bb24794555a17dc14&key=274964b08535921c87dd56efdcb9b3c7
 https://qpnnXEZUEt.akamaized.net/out/u/3035.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8cNfzd/Gtvch27.png" group-title="Local Channel",GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6871fdc2fbdd41b98fa04df276a937ae&key=7f19ed3bb5244fae55c16ff3d1c89ce6
 https://vUUhy5R74t.akamaized.net/out/u/3044.mpd
-#EXTINF:-1 tvg-name="Jeepney TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypyWdZmFW8qjTMYwYzOkoMVnE1xo5-jWn_A&usqp=CAU" group-title="Local Channel",Jeepney TV
 
-#EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_(2020-.n.v.).png/revision/latest?cb=20200908093734" group-title="Local Channel",Kapamilya Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypyWdZmFW8qjTMYwYzOkoMVnE1xo5-jWn_A&usqp=CAU" group-title="Local Channel",Jeepney TV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_(2020-.n.v.).png/revision/latest?cb=20200908093734" group-title="Local Channel",Kapamilya Channel
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsHssb/image.png" group-title="Local Channel" ,One PH 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3f1d3e6b84fa44d68ce7fd02cffad306&key=00b4877c1f0b292385bc8df096603549
 https://8BUwHBXfgp.akamaized.net/out/u/3004.mpd
-#EXTINF:-1 tvg-name="One Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local Channel",One Sport
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Local Channel",One Sport
 
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Local Channel",PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5211e8006c1e4a8a866cb84ec46f6fef&key=767dcfaa4760dea862fd8c73050c2f7f
 https://subfvj7tzt.akamaized.net/out/u/3020.mpd
-#EXTINF:-1 tvg-name="Super Radyo DZBB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="Local Channel", Super Radyo DZBB
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="Local Channel", Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkxhGNM/ch725-170-122.png" group-title="Local Channel",TFC
 https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3k03TmB/5.png" group-title="Local Channel",TV5 Kapatid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3039261d980b49eca2119b162262f928&key=76ea0b0f0d9d6a220c62f0987731452b
 https://ydKAaGNBgW.akamaized.net/out/u/3062.mpd
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Anime",Animax
-https://iptv-sniper.herokuapp.com/localtv.php?channel=24
-#EXTINF:-1 tvg-name="Anime All Day" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/ANIME_ALL_DAY.svg/revision/latest/scale-to-width-down/300?cb=20210803041231" group-title="Anime",Anime All Day
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-name="CONtv Anime" tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="Anime",CONtv Anime
-https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-name="Baby First" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/langfr-800px-BabyFirst.svg.png" group-title="Kids",Baby First
 
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest/scale-to-width-down/250?cb=20210422144418" group-title="Kids",Baby TV
+=Anime=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="Anime",Animax
+https://iptv-sniper.herokuapp.com/localtv.php?channel=24
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/ANIME_ALL_DAY.svg/revision/latest/scale-to-width-down/300?cb=20210803041231" group-title="Anime",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="Anime",CONtv Anime
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+
+=Kids=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/langfr-800px-BabyFirst.svg.png" group-title="Kids",Baby First
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest/scale-to-width-down/250?cb=20210422144418" group-title="Kids",Baby TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=86
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b8ec3f29f7cd0bc
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network
