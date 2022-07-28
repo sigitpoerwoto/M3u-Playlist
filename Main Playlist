@@ -310,35 +310,42 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 =Entertainment=
 
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="Entertainment",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
-#EXTINF:-1 tvg-name="Crime Investigation" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="Entertainment",Crime Investigation
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="Entertainment",Crime Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b73add6f0c8f2f01ad2029f8b19fa310&key=799dabe972f9c41a25ba37daa73a5fe5
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-#EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/512px-E!_Logo.svg.png" group-title="Entertainment",E! Entertainment
 
-#EXTINF:-1 tvg-name="Game Show Central" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="Entertainment",Game Show Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/512px-E!_Logo.svg.png" group-title="Entertainment",E! Entertainment
+
+#EXTINF:-1 tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="Entertainment",Game Show Central
 https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Entertainment",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1 tvg-id="3602" tvg-name="GEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Entertainment",GEM
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" group-title="Entertainment",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c895c9ffb76edf62261e7588665a7310&key=2bd500fc595131eaf160258a85dc72b6
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",KPlus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
-#EXTINF:-1  tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="Entertainment",ONE
+
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="Entertainment",ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
@@ -348,56 +355,72 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096632_thumb-rock-entertainment.png" group-title="Entertainment",ROCK Entertainment
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096632_thumb-rock-entertainment.png" group-title="Entertainment",ROCK Entertainment
 https://iptv-sniper.herokuapp.com/localtv.php?channel=56
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eacf25e4bd7b40c5a3617496289700d2&key=d64d8f8a01d8bc1991806e28d699186d
 https://qpnnXEZUEt.akamaized.net/out/u/3037.mpd
-#EXTINF:-1 tvg-name="ROCK Extreme" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096639_thumb-rock-extreme.png" group-title="Entertainment",ROCK Extreme
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096639_thumb-rock-extreme.png" group-title="Entertainment",ROCK Extreme
 https://iptv-sniper.herokuapp.com/localtv.php?channel=57
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=49ca465e635d49ee85e469ad6b15a199&key=cdbfe9b673c748f80f027f4c44e6a13d
 https://mzvrna3n7b.akamaized.net/out/u/10564.mpd
+
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="Entertainment",TBS
 
-#EXTINF:-1 tvg-name="TechStorm" tvg-logo="https://www.techstorm.tv/wp-content/uploads/2020/07/Linear_BrilliantAmaranth-Black-Text.png" group-title="Entertainment",TechStorm
+#EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2020/07/Linear_BrilliantAmaranth-Black-Text.png" group-title="Entertainment",TechStorm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=49ca465e635d49ee85e469ad6b15a199&key=cdbfe9b673c748f80f027f4c44e6a13d
 https://5sgx6pvt5d.akamaized.net/out/u/9636.mpd
+
 #EXTINF:-1 tvg-name="TNT" tvg-logo="xxx" group-title="Entertainment",TNT
 
-#EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="Entertainment",TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="Entertainment",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
 
-#EXTINF:-1 tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Entertainment",VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
 
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Entertainment",VH1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8300c66236b3057410cde9cf0970910&key=f3787e40b34f18ab2dccd809e78ceec1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2015_WWE_logo.svg/1200px-2015_WWE_logo.svg.png" group-title="Entertainment",WWE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2015_WWE_logo.svg/1200px-2015_WWE_logo.svg.png" group-title="Entertainment",WWE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+=Music=
+
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/MTV-logo.png" group-title="Music",MTV
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNM8CPG/MTV-Asia.png" group-title="Music",MTV Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
-#EXTINF:-1 tvg-name="MTV Asia" tvg-logo="https://i.ibb.co/yNM8CPG/MTV-Asia.png" group-title="Music",MTV Asia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-#EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-name="MTV Block Party" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
 
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOQ3UADBtkeVIhv2epZHO6XX1ievBrTw5fQ&usqp=CAU" group-title="Music",MTV Live
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOQ3UADBtkeVIhv2epZHO6XX1ievBrTw5fQ&usqp=CAU" group-title="Music",MTV Live
 http://iptv.prosto.tv:7000/ch128/video.m3u8
-#EXTINF:-1 tvg-name="MYX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1117px-Myxphlogo.svg.png" group-title="Music",MYX
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1117px-Myxphlogo.svg.png" group-title="Music",MYX
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+
+=Lifestyle=
+
 #EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/250?cb=20191129100706" group-title="Lifestyle",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b0e855d7fb11721129c13d4c1b645e10&key=2ddd4b255921d5c2a331e5f10f302be0
