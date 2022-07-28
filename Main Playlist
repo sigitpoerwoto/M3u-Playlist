@@ -107,7 +107,7 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkxhGNM/ch725-170-122.png" group-title="Local Channel",TFC
 https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/3k03TmB/5.png" group-title="Local Channel",TV5 Kapatid
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3k03TmB/5.png" group-title="Local Channel",TV5 Kapatid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3039261d980b49eca2119b162262f928&key=76ea0b0f0d9d6a220c62f0987731452b
 https://ydKAaGNBgW.akamaized.net/out/u/3062.mpd
@@ -140,13 +140,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
 
-#EXTINF:-1 tvg-name="Disney JR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" group-title="Kids",Disney JR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" group-title="Kids",Disney JR
 
-#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
 
-#EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Kids",DreamWorks
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Kids",DreamWorks
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrhBDR6.png" group-title="Kids",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -163,7 +163,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="Kids",Ta-daa!
@@ -171,9 +171,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_primary.mpd
 
-#EXTINF:-1 tvg-name="TVO Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
 
-#EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="Kids",Zoo Moo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="Kids",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 =Movies=
@@ -247,7 +247,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 tvg-name="Viva Cimena" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png/revision/latest?cb=20210804093235" group-title="Movies",Viva Cinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png/revision/latest?cb=20210804093235" group-title="Movies",Viva Cinema
 
 =Educational=
 
@@ -368,14 +368,14 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=57
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=49ca465e635d49ee85e469ad6b15a199&key=cdbfe9b673c748f80f027f4c44e6a13d
 https://mzvrna3n7b.akamaized.net/out/u/10564.mpd
 
-#EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="Entertainment",TBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="Entertainment",TBS
 
 #EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2020/07/Linear_BrilliantAmaranth-Black-Text.png" group-title="Entertainment",TechStorm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=49ca465e635d49ee85e469ad6b15a199&key=cdbfe9b673c748f80f027f4c44e6a13d
 https://5sgx6pvt5d.akamaized.net/out/u/9636.mpd
 
-#EXTINF:-1 tvg-name="TNT" tvg-logo="xxx" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-logo="xxx" group-title="Entertainment",TNT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="Entertainment",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -398,7 +398,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 =Music=
 
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/MTV-logo.png" group-title="Music",MTV
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/MTV-logo.png" group-title="Music",MTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNM8CPG/MTV-Asia.png" group-title="Music",MTV Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
