@@ -5,31 +5,31 @@
 #EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",ANC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=37
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",CNN Philippines
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FyHkS8/Ayq-Nn-Hj-d.webp" group-title="Local Channel",CNN Philippines
 https://iptv-sniper.herokuapp.com/localtv.php?channel=10
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",GMA 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vw7n2Pt/gma7.png" group-title="Local Channel",GMA 7
 
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",GNTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
 
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",Kapamilya Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWdP659/Kapamilya-Channel-2020-n-v.png" group-title="Local Channel",Kapamilya Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=11
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",One PH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMZQbX0/image.png" group-title="Local Channel",One PH
 https://iptv-sniper.herokuapp.com/localtv.php?channel=42
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",One Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LS2v5HK/One-Sports-logo-svg.png" group-title="Local Channel",One Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",Teleradyo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kcMkX7H/images.png" group-title="Local Channel",Teleradyo
 
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",TV 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NxywRC2/5.png" group-title="Local Channel",TV 5
 
 
 =Entertainment=
