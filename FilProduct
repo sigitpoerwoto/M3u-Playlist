@@ -151,7 +151,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 
 =International News=
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",BBC World
+#EXTINF:-1 tvg-logo="XXXX" group-title="International News",BBC World News
 https://iptv-sniper.herokuapp.com/localtv.php?channel=40
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="International News",Bloomberg
