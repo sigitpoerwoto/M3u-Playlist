@@ -520,6 +520,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="International News",KBS World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/1200px-NBC_Peacock_1986.svg.png" group-title="International News",NBC News
