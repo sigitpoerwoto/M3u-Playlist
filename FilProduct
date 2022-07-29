@@ -43,6 +43,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=35
 #EXTINF:-1 tvg-logo="XXXX" group-title="Entertainment",KBS World
 https://iptv-sniper.herokuapp.com/localtv.php?channel=65
 
+#EXTINF:-1 tvg-logo="XXXX" group-title="Entertainment",Lifetime
+https://iptv-sniper.herokuapp.com/localtv.php?channel=55
+
 #EXTINF:-1 tvg-logo="XXXX" group-title="Entertainment",Rock Entertainment
 https://iptv-sniper.herokuapp.com/localtv.php?channel=56
 
@@ -142,9 +145,6 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=96
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",HGTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=87
-
-#EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",Lifetime
-https://iptv-sniper.herokuapp.com/localtv.php?channel=55
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",Metro Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=58
