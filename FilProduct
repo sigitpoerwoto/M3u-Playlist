@@ -14,7 +14,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
 
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Local Channel",Jeepney TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3TzcXqb/Jeepney-TV.png" group-title="Local Channel",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWdP659/Kapamilya-Channel-2020-n-v.png" group-title="Local Channel",Kapamilya Channel
