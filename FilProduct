@@ -126,68 +126,68 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=51
 
 =Music=
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Music",MTV Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkdX86c/MTVLive.png" group-title="Music",MTV Live
 https://iptv-sniper.herokuapp.com/localtv.php?channel=66
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Music",MYX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zcmy0Ff/MYX.png" group-title="Music",MYX
 https://iptv-sniper.herokuapp.com/localtv.php?channel=75
 
 =Lifestyle=
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",Asian Food Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jqgbnb8/Asian-Food-Network.png" group-title="Lifestyle",Asian Food Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=63
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",Fashion TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcJ9SS2/Fashion-TV.png" group-title="Lifestyle",Fashion TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=96
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",HGTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7V43BR/HGTV.png" group-title="Lifestyle",HGTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=87
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",Metro Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pb5MS6W/Metro-Channel.png" group-title="Lifestyle",Metro Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Lifestyle",TLC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3QkyG7/TLC.png" group-title="Lifestyle",TLC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=47
 
 =International News=
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",BBC World News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RQ4HyX/BBCWorld-News.png" group-title="International News",BBC World News
 https://iptv-sniper.herokuapp.com/localtv.php?channel=40
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",Bloomberg
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NYDPz6v/Bloomberg.png" group-title="International News",Bloomberg
 https://iptv-sniper.herokuapp.com/localtv.php?channel=44
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",CNBC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2C2G1Q/CNBC.png" group-title="International News",CNBC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=43
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",CNN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH4ygYg/CNN.png" group-title="International News",CNN
 https://iptv-sniper.herokuapp.com/localtv.php?channel=38
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",DW News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qnm2gzd/DWNews.png" group-title="International News",DW News
 https://iptv-sniper.herokuapp.com/localtv.php?channel=94
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",Fox News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nQ5Bzr/FoxNews.png" group-title="International News",Fox News
 https://iptv-sniper.herokuapp.com/localtv.php?channel=39
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",France 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDRn115/France24.png" group-title="International News",France 24
 https://iptv-sniper.herokuapp.com/localtv.php?channel=95
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="International News",NHK World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXDLtHr/NHKWorld.png" group-title="International News",NHK World
 
 
 =Sports=
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Sports",Fight Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzWw9Q1/Fight-Sports.png" group-title="Sports",Fight Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=18
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Sports",ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yP83crp/ESPN.png" group-title="Sports",ESPN
 https://iptv-sniper.herokuapp.com/localtv.php?channel=32
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Sports",Euro Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWWnq54/Euro-Sports.png" group-title="Sports",Euro Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=48
 
 #EXTINF:-1 tvg-logo="XXXX" group-title="Sports",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Sports",Tap Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xLmtmtn/TAPSports.png" group-title="Sports",Tap Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=31
