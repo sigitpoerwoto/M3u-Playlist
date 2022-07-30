@@ -186,7 +186,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=32
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DWWnq54/Euro-Sports.png" group-title="Sports",Euro Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=48
 
-#EXTINF:-1 tvg-logo="XXXX" group-title="Sports",Premier Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G7mybdF/Premier-Sports-PH.png" group-title="Sports",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xLmtmtn/TAPSports.png" group-title="Sports",Tap Sports
