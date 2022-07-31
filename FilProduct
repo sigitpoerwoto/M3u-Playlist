@@ -41,7 +41,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=62
 https://iptv-sniper.herokuapp.com/localtv.php?channel=35
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7R1B5Vd/KBSWorld.webp" group-title="Entertainment",KBS World
-https://iptv-sniper.herokuapp.com/localtv.php?channel=65
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VnDPCQ/Lifetime.png" group-title="Entertainment",Lifetime
 https://iptv-sniper.herokuapp.com/localtv.php?channel=55
