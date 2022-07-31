@@ -2,65 +2,65 @@
 
 =Local Radio=
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeQSfYp1HGbX59mHDU6x989AUuoKYl2OqYw&usqp=CAU" group-title="Local Radio",88.3 Jam
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1v7Nqr/Jam.png" group-title="Local Radio",88.3 Jam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTYmnvV/1657440916172.png" group-title="Local Radio",89.1 Wave
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTYmnvV/Wave.png" group-title="Local Radio",89.1 Wave
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdg0QK3EZcoBAQc-3mUMGVAvWQUUbJ6a9y2w&usqp=CAU" group-title="Local Radio",89.9 Magic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3YcFRc/Magic.png" group-title="Local Radio",89.9 Magic
 http://stream-30.zeno.fm/sh37pvfd938uv?zs=9-6MPUdoSDuZq7riLOxKCg
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVayp-3VCu6efnn2BMXoZ4Wx1THb114ynosGtA2XWkG8HFdfAkEBQ4jqRG&s=10" group-title="Local Radio",90.7 Love Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gNhqMF/Love-Radio.png" group-title="Local Radio",90.7 Love Radio
 http://s3.radio.co/sd43d6cc6d/listen
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGz240r/IMG-20220710-160633.jpg" group-title="Local Radio",91.5 Win Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGz240r/WinRadio.jpg" group-title="Local Radio",91.5 Win Radio
 http://stream-12.zeno.fm/2ss1hgnu6hhvv?zs=zu9MieNWTsuFyoR5UOZSPw
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Svm0KM/1657442417306.png" group-title="Local Radio",92.3 Radyo 5 News FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Svm0KM/Radyo5-News-FM.png" group-title="Local Radio",92.3 Radyo 5 News FM
 
-#EXTINF:-1 tvg-logo="https://rx931.com/images/_assets/logo.png" group-title="Local Radio",93.1 Monster RX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92v5XNY/Monster-RX.png" group-title="Local Radio",93.1 Monster RX
 https://ph-icecast-win.eradioportal.com:8443/monsterrx
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtjE9aIxeYufUivfn6AIJHbw5N1orRyODD_w&usqp=CAU" group-title="Local Radio",93.9 iFM
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Mellow_947.png" group-title="Local Radio",94.7 Mellow
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RKYxM3/Mellow.png" group-title="Local Radio",94.7 Mellow
 http://s3.free-shoutcast.com/stream/18342/;?nocache=40&type=http
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Rj0NLW/1657456063249.png" group-title="Local Radio",95.5 Eagle FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Rj0NLW/EagleFM.png" group-title="Local Radio",95.5 Eagle FM
 https://s5.radio.co/s49bbdfa2a/listen
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcKI5ByLvV8X_D6RXCaEWU_fqZ1z5BUDxwg&usqp=CAU" group-title="Local Radio",96.3 Easy Rock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VRdgWQ/EasyRock.png" group-title="Local Radio",96.3 Easy Rock
 http://s4.radio.co/s778110174/listen
 
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",97.1 Barangay LS
 
 #EXTINF:-1vtvg-logo="xxx" group-title="Local Radio",97.9 Home Radio
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZsCV7FNBkeznRwmJ3AWL-jvprh_SC4Zltg&usqp=CAU" group-title="Local Radio",98.7 The Master's Touch
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hTDWRh/Tha-Master-039-s-Touch.jpg" group-title="Local Radio",98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
 
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",99.5 Play FM
 
-#EXTINF:-1 tvg-logo="https://eradioportal.com/wp-content/uploads/2020/03/RJFM-NEW.png" group-title="Local Radio",100.3 RJ FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsBpS7s/RJFM.png" group-title="Local Radio",100.3 RJ FM
 http://111.125.87.226:8000/streamfm
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xjfx2C1/1657443104433.png" group-title="Local Radio",101.1 Yes The Best
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xjfx2C1/YesDBest.png" group-title="Local Radio",101.1 Yes The Best
 http://s2.radio.co/sa85100da7/listen
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s97256/images/logog.png?t=151671" group-title="Local Radio",102.7 Star FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mtx4HTv/StarFM.webp" group-title="Local Radio",102.7 Star FM
 http://stream-20.zeno.fm/536cwdq78heuv?zs=BzIu3YKaToeyXmz06brsNw
 
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",103.5 K-Lite
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Fm2ph-logo.png" group-title="Local Radio",104.3 Capital FM2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8j7k8wT/Fm2ph.png" group-title="Local Radio",104.3 Capital FM2
 http://stream-10.zeno.fm/205fny7m108uv?zs=fGQjZCXKTNK4YCmg0a4eQQ
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Q_105.1_Manila.png/revision/latest/scale-to-width-down/350?cb=20200302125824" group-title="Local Radio",105.1 Q Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSf8Pct/QRadio.png" group-title="Local Radio",105.1 Q Radio
 http://sg-icecast.eradioportal.com:8000/q105
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NeoRetro105.9Logo.png" group-title="Local Radio",105.9 Neo Retro
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/a/a5/Pizap.png/revision/latest?cb=20180321115415" group-title="Local Radio",106.7 Energy FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1THw4mZ/EnergyFM.png" group-title="Local Radio",106.7 Energy FM
 
 #EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",107.5 Wish FM
 
