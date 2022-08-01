@@ -12,7 +12,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=10
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
-
+https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3TzcXqb/Jeepney-TV.png" group-title="Local Channel",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
@@ -27,10 +27,10 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=42
 https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcMkX7H/images.png" group-title="Local Channel",Teleradyo
-
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NxywRC2/5.png" group-title="Local Channel",TV 5
-
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 
 =Entertainment=
 
@@ -41,7 +41,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=62
 https://iptv-sniper.herokuapp.com/localtv.php?channel=35
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7R1B5Vd/KBSWorld.webp" group-title="Entertainment",KBS World
-
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VnDPCQ/Lifetime.png" group-title="Entertainment",Lifetime
 https://iptv-sniper.herokuapp.com/localtv.php?channel=55
@@ -173,7 +173,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=39
 https://iptv-sniper.herokuapp.com/localtv.php?channel=95
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXDLtHr/NHKWorld.png" group-title="International News",NHK World
-
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 =Sports=
 
