@@ -9,7 +9,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=37
 https://iptv-sniper.herokuapp.com/localtv.php?channel=10
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vw7n2Pt/gma7.png" group-title="Local Channel",GMA 7
-
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcHDhc6/Gtvch27.png" group-title="Local Channel",GTV
 
