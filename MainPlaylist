@@ -619,6 +619,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 =Gaming=
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsTykDd/beyondthesummit.png" group-title="Gaming",Beyond The Summit
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/beyondthesummit
+
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
