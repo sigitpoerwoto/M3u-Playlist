@@ -39,7 +39,7 @@ http://s4.radio.co/s778110174/listen
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hTDWRh/Tha-Master-039-s-Touch.jpg" group-title="Local Radio",98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
 
-#EXTINF:-1 tvg-logo="xxx" group-title="Local Radio",99.5 Play FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2zcb7p/playfm.png" group-title="Local Radio",99.5 Play FM
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/995playfm
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsBpS7s/RJFM.png" group-title="Local Radio",100.3 RJ FM
